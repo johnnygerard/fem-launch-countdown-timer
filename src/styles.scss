@@ -4,4 +4,9 @@
 
 body {
   display: grid;
+  background: $mobile-background no-repeat bottom / cover;
+
+  @media (min-width: 500px) {
+    background-image: $desktop-background;
+  }
 }
