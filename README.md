@@ -1,7 +1,7 @@
 # Frontend Mentor | Launch countdown timer
 This is my solution to the [Launch countdown timer challenge](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-) from [Frontend Mentor](https://www.frontendmentor.io/).
 
-[![project status](https://img.shields.io/badge/status-work%20in%20progress-red?style=for-the-badge)](https://fem-launch-countdown-timer-jgerard.vercel.app)
+[![project status](https://img.shields.io/badge/status-solution%20published-success?style=for-the-badge)](https://fem-launch-countdown-timer-jgerard.vercel.app)
 
 ## Tech Stack
  - Angular
@@ -13,7 +13,7 @@ This is my solution to the [Launch countdown timer challenge](https://www.fronte
 
 ## Links
  - [Website](https://fem-launch-countdown-timer-jgerard.vercel.app) hosted with [Vercel](https://vercel.com/)
- <!-- - [Solution]() -->
+ - [Solution](https://www.frontendmentor.io/solutions/launch-countdown-timer-vy4kZDzw1C)
 
 <!-- ## Screenshots
 ### Desktop
