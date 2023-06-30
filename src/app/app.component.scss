@@ -39,5 +39,11 @@
 }
 
 app-timer {
-  margin: 54px 0 260px;
+  @include mobile {
+    margin: 54px 0 260px;
+  }
+
+  @include desktop {
+    margin: 104px 0 252px;
+  }
 }
