@@ -7,10 +7,10 @@
   min-width: 376px;
   min-height: 100vh;
 
-  background: $mobile-background no-repeat bottom / cover;
+  background: url('../assets/images/mobile.svg') no-repeat bottom / cover;
 
   @media (min-width: 500px) {
-    background-image: $desktop-background;
+    background-image: url('../assets/images/desktop.svg');
   }
 
   @include mobile {
