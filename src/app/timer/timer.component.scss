@@ -1,0 +1,13 @@
+@use 'index' as *;
+
+:host {
+  display: flex;
+
+  @include mobile {
+    gap: 16px;
+  }
+  
+  @include desktop {
+    gap: 32px;
+  }
+}

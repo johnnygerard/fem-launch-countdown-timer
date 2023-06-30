@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { environment } from 'src/environments/environment';
-import { TickerComponent } from './ticker/ticker.component';
+import { TimerComponent } from './timer/timer.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, TickerComponent],
+  imports: [CommonModule, TimerComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
