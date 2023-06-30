@@ -3,11 +3,6 @@
 @use 'index' as *;
 
 body {
-  display: grid;
   font-family: 'Red Hat Text', sans-serif;
-  background: $mobile-background no-repeat bottom / cover;
 
-  @media (min-width: 500px) {
-    background-image: $desktop-background;
-  }
 }
