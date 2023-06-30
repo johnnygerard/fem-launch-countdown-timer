@@ -1,0 +1,9 @@
+@use 'index' as *;
+
+svg {
+  fill: #8385A9;
+}
+
+svg:hover {
+  fill: map-get($palette, 'accent');
+}
