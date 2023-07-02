@@ -15,13 +15,11 @@ This is my solution to the [Launch countdown timer challenge](https://www.fronte
  - [Website](https://fem-launch-countdown-timer-jgerard.vercel.app) hosted with [Vercel](https://vercel.com/)
  - [Solution](https://www.frontendmentor.io/solutions/launch-countdown-timer-vy4kZDzw1C)
 
-<!-- ## Screenshots
+## Screenshots
 ### Desktop
 ![desktop screenshot](screenshots/desktop.webp)
-### Tablet
-![tablet screenshot](screenshots/tablet.webp)
 ### Mobile
-![mobile screenshot](screenshots/mobile.webp) -->
+![mobile screenshot](screenshots/mobile.webp)
 
 ## About Frontend Mentor
 [Frontend Mentor](https://www.frontendmentor.io/) challenges help you improve your coding skills by building realistic projects.
